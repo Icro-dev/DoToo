@@ -1,0 +1,17 @@
+H:\xamarin_apps\DoToo\DoToo\DoToo\bin\Debug\netstandard2.0\DoToo.deps.json
+H:\xamarin_apps\DoToo\DoToo\DoToo\bin\Debug\netstandard2.0\DoToo.dll
+H:\xamarin_apps\DoToo\DoToo\DoToo\bin\Debug\netstandard2.0\DoToo.pdb
+H:\xamarin_apps\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.csproj.AssemblyReference.cache
+H:\xamarin_apps\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.GeneratedMSBuildEditorConfig.editorconfig
+H:\xamarin_apps\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\App.xaml.g.cs
+H:\xamarin_apps\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\Views\ItemView.xaml.g.cs
+H:\xamarin_apps\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\Views\MainView.xaml.g.cs
+H:\xamarin_apps\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.AssemblyInfoInputs.cache
+H:\xamarin_apps\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.AssemblyInfo.cs
+H:\xamarin_apps\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.csproj.CoreCompileInputs.cache
+H:\xamarin_apps\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.csproj.Fody.CopyLocal.cache
+H:\xamarin_apps\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\XamlC.stamp
+H:\xamarin_apps\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.dll
+H:\xamarin_apps\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\refint\DoToo.dll
+H:\xamarin_apps\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\DoToo.pdb
+H:\xamarin_apps\DoToo\DoToo\DoToo\obj\Debug\netstandard2.0\ref\DoToo.dll
